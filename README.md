@@ -1,9 +1,9 @@
-# 01-Excel Challange
+# Kickestarter Analysis with Exce;
 
-## Prompt
+# Prompt
 Using provided Kickstarter data for around 4,000 projects modify and analyze the data to find any useful markert trends. Present findings using graphs and a brief report.
 
-## Concepts
+# Concepts
 * **_Conditional Formating_**  
 The provided data uses a "state" column to designate one of the following outcomes for the project: Live, Failed, Canceled, and Successful. These words are then used in the formatting rules to apply a color to each cell depending on the state. The “Percent Funded” column that is formatted using a blue-green-red color scale. With projects on the higher end receiving shades of blue and shade of red on the lower end.
 
